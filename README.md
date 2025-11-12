@@ -1,2 +1,2 @@
 # ViDY
-im Systems plan and Project management
+Video AI platform
